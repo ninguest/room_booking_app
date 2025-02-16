@@ -84,3 +84,7 @@ The app follows a feature-first architecture with clean separation of concerns:
 ```
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```
+
+## Demo Video
+
+[![Room Booking App Demo](https://img.youtube.com/vi/D36Efkd9Hdo/0.jpg)](https://youtu.be/D36Efkd9Hdo)
