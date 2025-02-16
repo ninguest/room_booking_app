@@ -81,6 +81,6 @@ The app follows a feature-first architecture with clean separation of concerns:
 - Modular and reusable widgets
 
 ## License
-
+```
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```
